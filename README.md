@@ -3,7 +3,6 @@
 Collezione di idee, tutorial, codice, link per l'analisi di dataset pubblici.
 
 ## Tutorial Vari 
-## Tutorial Vari 
 
 ### Python/iPython
 
