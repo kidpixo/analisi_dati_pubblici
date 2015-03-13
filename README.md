@@ -3,6 +3,7 @@
 Collezione di idee, tutorial, codice, link per l'analisi di dataset pubblici.
 
 ## Tutorial Vari 
+## Tutorial Vari 
 
 ### Python/iPython
 
@@ -28,5 +29,9 @@ Collezione di idee, tutorial, codice, link per l'analisi di dataset pubblici.
 * [Comunicazione Basi Dati](http://basidati.agid.gov.it/catalogo/download.html)
 * [Open data](http://www.istat.it/it/istituto-nazionale-di-statistica/attivit%C3%A0/open-data)
 * [dataset scaricabili - Camera dei deputati - dati.camera](http://dati.camera.it/it/download)
+* [Hackathon Code4Italy - Text Miner](http://code4italy.altervista.org/)
+* [Linked-Data - Camera dei deputati - dati.camera](http://dati.camera.it/it/linked-data/)
+* [Virtuoso SPARQL Query Editor](http://dati.camera.it/sparql)
 * [SIOPE](https://www.siope.it/Siope2Web/jsp/dispatchHome.do)
 * [Banche dati — Italiano](http://www.isprambiente.gov.it/it/banche-dati)
+
